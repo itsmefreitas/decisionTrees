@@ -1,0 +1,15 @@
+ID,Weather,Temp,Humidity,Wind,Play
+1,sunny,Hot,High,FALSE,no
+2,sunny,Hot,High,TRUE,no
+3,overcast,Hot,High,FALSE,yes
+4,rainy,Mild,High,FALSE,yes
+5,rainy,Cool,Normal,FALSE,yes
+6,rainy,Cool,Normal,TRUE,no
+7,overcast,Cool,Normal,TRUE,yes
+8,sunny,Mild,High,FALSE,no
+9,sunny,Cool,Normal,FALSE,yes
+10,rainy,Mild,Normal,FALSE,yes
+11,sunny,Mild,Normal,TRUE,yes
+12,overcast,Mild,High,TRUE,yes
+13,overcast,Hot,Normal,FALSE,yes
+14,rainy,Mild,High,TRUE,no
